@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydantic",
+  "repo": "claude-code-logfire-plugin",
+  "versions": [
+    {
+      "commit": "0f1b1172a46ae34b0d67d866a42ee75f3f3876de",
+      "parsed_at": "2026-10-11T19:25:47.312798+00:00",
+      "filetree": "filetree/0f1b1172a46ae34b0d67d866a42ee75f3f3876de.nq.gz",
+      "blobs": [
+        "blob/527373cd44ea6109f8e4cb3f3470b974184ddfc5.nq.gz",
+        "blob/8d7ef4278286587a3ace0f721450ea6096e2902f.nq.gz",
+        "blob/f2aa567d56bfcf8fd9037a19bc522dfd40b3f5b7.nq.gz",
+        "blob/0fd4bf090a5703961325ba9f23310bb656f19ca1.nq.gz",
+        "blob/80265dd3280cd798c23e3138b04c56c2807417c9.nq.gz",
+        "blob/c17b93c3afe5c498ff304727e55e2ed7f3dd8233.nq.gz",
+        "blob/a71c80c5655329cbe8448bc8f25735fd91c89e93.nq.gz",
+        "blob/0dfbd073a69c4210644e2c878d510de0668fa5bc.nq.gz",
+        "blob/b691e99375a8949c793998f8361263d18e89044a.nq.gz",
+        "blob/40af9bbeb2b6cc5312d504730b85f32db8af9eb1.nq.gz",
+        "blob/5e51eacd288e98c6f3546efcedb0902e334bb464.nq.gz",
+        "blob/567871d23037cdcfbf0cbd76316b77b03109d93a.nq.gz",
+        "blob/0c0b44d4d633f4be34e26d8a3082a542388149da.nq.gz",
+        "blob/8e3212c627ca1ec4df88f5bc59776c7e731696ad.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
